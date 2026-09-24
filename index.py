@@ -45,4 +45,4 @@ while True:
         print("Websites unblocked successfully!")
         break
 
-    time.sleep(5)
+    time.sleep(120)
